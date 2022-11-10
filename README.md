@@ -1,3 +1,13 @@
+TYpe:
+
+```
+notepad $Profile
+```
+
+Add ". C:\<PATH TO SCRIPT>Get-MyIp.ps1"
+
+Save and reload your shell, then run:
+
 # Get-MyIP
 Exit Node checker and IP lookup tool. Good for double checking before you click links or blow up malware
 Includes some lookup data about the IP
