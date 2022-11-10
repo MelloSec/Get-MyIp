@@ -1,8 +1,7 @@
 TYpe:
 
-```
+
 notepad $Profile
-```
 
 Add ". C:\<PATH TO SCRIPT>Get-MyIp.ps1"
 
